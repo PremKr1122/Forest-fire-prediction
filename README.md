@@ -65,7 +65,3 @@ In the **Model_Training.ipynb** notebook, the following steps are performed:
 ## Conclusion
 
 This project demonstrates how to predict forest fires using machine learning models, with Ridge Regression achieving the highest accuracy. The Flask web interface makes the model easily accessible for users to input data and get predictions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
