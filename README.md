@@ -23,7 +23,7 @@ This project aims to predict forest fire occurrences using various regression te
     cd forest-fire-prediction
     ```
 
-2. Create a virtual environment (recommended):
+2. Create a virtual environment:
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
