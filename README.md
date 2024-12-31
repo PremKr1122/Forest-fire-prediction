@@ -13,14 +13,14 @@ This project aims to predict forest fire occurrences using various regression te
   Contains HTML files for the web interface.
   - **home.html**: The main user interface where users can input data and predict the likelihood of a forest fire.
 
-- **app.py**: The Flask application that connects the trained model to the web interface.
+- **application.py**: The Flask application that connects the trained model to the web interface.
 
 ## Installation and Setup
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/PremKr1122/forestfires
-    cd forest-fire-prediction
+    git clone https://github.com/PremKr1122/Forest-fire-prediction
+    cd Forest-fire-prediction
     ```
 
 2. Create a virtual environment:
@@ -36,7 +36,7 @@ This project aims to predict forest fire occurrences using various regression te
 
 4. Run the Flask application:
     ```bash
-    python app.py
+    python application.py
     ```
 
 5. Access the user interface by opening your browser and navigating to `http://localhost:5000`.
