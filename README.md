@@ -60,7 +60,7 @@ In the **Model_Training.ipynb** notebook, the following steps are performed:
 ## Flask Web Interface
 
 - **home.html**: The user interface allows users to input features such as temperature, humidity, wind speed, etc., and predicts the likelihood of a forest fire.
-- **app.py**: The Flask backend that serves the model and interfaces with the frontend.
+- **application.py**: The Flask backend that serves the model and interfaces with the frontend.
 
 ## Conclusion
 
