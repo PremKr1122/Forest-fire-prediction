@@ -19,7 +19,7 @@ This project aims to predict forest fire occurrences using various regression te
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/forest-fire-prediction.git
+    git clone https://github.com/PremKr1122/forestfires
     cd forest-fire-prediction
     ```
 
